@@ -14,3 +14,5 @@ With each active box, I state the required password below you will need to unloc
 ### Monteverde
 Password protected with Administrator's password that you recieve at the end of the box
 
+### Magic
+Password is the command used to gain root, beginning with 's' 
