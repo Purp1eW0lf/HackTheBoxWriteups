@@ -7,8 +7,11 @@ I pitch every report for a 'beginner', regardless of the difficulty of the machi
 
 If you're a beginner looking for tips on how to take effective notes, please see my file on 'HTB Notetaking Tips'
 
+## Retired Machines
+Retired machines are free to pursue in their own folder above, with no password. Download the PDF, as it renders slowly and weirdly on the Github viewer. 
+
 ## Active Machines
-Active machines are downloadable PDFs, locked with passwords. Retired machines are free to pursue in their own folder above. 
+Active machines are downloadable PDFs, locked with passwords. 
 With each active box, I state the required password below you will need to unlock it, so please keep an eye out for this. 
 
 ### Monteverde
