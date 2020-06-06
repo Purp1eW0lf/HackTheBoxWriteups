@@ -17,8 +17,13 @@ With each active box, I state the required password you will need to unlock it w
 ### Blunder
 Password is the root process we use to priv esc =  /xyz/wxyz
 
+### Cascade
+Password protected with the decoded Administrator's password
+
+### Magic
+Password is the command used to gain root, beginning with 's'
+
 ### Monteverde
 Password protected with Administrator's password that you recieve at the end of the box
 
-### Magic
-Password is the command used to gain root, beginning with 's' 
+
