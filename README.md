@@ -22,8 +22,3 @@ Password protected with the decoded Administrator's password
 
 ### Magic
 Password is the command used to gain root, beginning with 's'
-
-### Monteverde
-Password protected with Administrator's password that you recieve at the end of the box
-
-
