@@ -22,3 +22,6 @@ Password protected with the decoded Administrator's password
 
 ### Magic
 Password is the command used to gain root, beginning with 's'
+
+### Sauna
+Password is the NTLM hash gained at the end of the box, begining with 'd' ends with 'f'
