@@ -17,6 +17,9 @@ With each active box, I state the required password you will need to unlock it w
 ### Blunder
 Password is the root process we use to priv esc =  /xyz/wxyz
 
+### Cache
+Password is root hash, starts with bW ends with kb/
+
 ### Cascade
 Password protected with the decoded Administrator's password
 
