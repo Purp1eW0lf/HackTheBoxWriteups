@@ -14,6 +14,8 @@ Retired machines are free to peruse in their own folder above, with no password.
 Active machines are downloadable PDFs, locked with passwords. Click on the PDF you wamt and download it to your computer. 
 With each active box, I state the required password you will need to unlock it when prompted after you open it on your computer, so please keep an eye out for this. 
 
+### Admirer
+Password is root's shadow hash, starting with $6$ and ending with .fl0
 ### Blunder
 Password is the root process we use to priv esc =  /xyz/wxyz
 
