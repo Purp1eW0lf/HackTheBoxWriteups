@@ -25,6 +25,9 @@ Password is root hash, starts with bW ends with kb/
 ### Cascade
 Password protected with the decoded Administrator's password
 
+### Fuse
+Password protected with Administrator's hash beginning with 370 and ending with 14e
+
 ### Magic
 Password is the command used to gain root, beginning with 's'
 
