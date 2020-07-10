@@ -16,6 +16,10 @@ With each active box, I state the required password you will need to unlock it w
 
 ### Admirer
 Password is root's shadow hash, starting with M5g. and ending with .fl0
+
+### Blackfield
+Password is Admin's hash, starting with 184 ending with 9ee
+
 ### Blunder
 Password is the root process we use to priv esc =  /xyz/wxyz
 
