@@ -35,8 +35,5 @@ Password protected with Administrator's hash beginning with 370 and ending with 
 ### Magic
 Password is the command used to gain root, beginning with 's'
 
-### Sauna
-Password is the NTLM hash gained at the end of the box, begining with 'd' ends with 'f'
-
 ### Tabby
 Password is root's shadow hash, include the beginning $6$ and end with 0H/
