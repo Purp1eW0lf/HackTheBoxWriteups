@@ -26,9 +26,6 @@ Password is the root process we use to priv esc =  /xyz/wxyz
 ### Cache
 Password is root hash, starts with bW ends with kb/
 
-### Cascade
-Password protected with the decoded Administrator's password
-
 ### Fuse
 Password protected with Administrator's hash beginning with 370 and ending with 14e
 
