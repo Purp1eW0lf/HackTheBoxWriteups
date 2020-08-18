@@ -21,7 +21,7 @@ Password is root's shadow hash, starting with M5g. and ending with .fl0
 Password is Admin's hash, starting with 184 ending with 9ee
 
 ### Blunder
-Password is the root process we use to priv esc =  /xyz/wxyz
+Password is the root hash beginning with $6$ and ending with 18228
 
 ### Cache
 Password is root hash, starts with bW ends with kb/
