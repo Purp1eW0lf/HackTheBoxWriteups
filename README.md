@@ -29,8 +29,5 @@ Password is root hash, starts with bW ends with kb/
 ### Fuse
 Password protected with Administrator's hash beginning with 370 and ending with 14e
 
-### Magic
-Password is the command used to gain root, beginning with 's'
-
 ### Tabby
 Password is root's shadow hash, include the beginning $6$ and end with 0H/
