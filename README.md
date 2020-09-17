@@ -23,6 +23,9 @@ Password is Admin's hash, starting with 184 ending with 9ee
 ### Blunder
 Password is the root hash beginning with $6$ and ending with 18228
 
+### Buff
+Password is Admin Hash
+
 ### Cache
 Password is root hash, starts with bW ends with kb/
 
