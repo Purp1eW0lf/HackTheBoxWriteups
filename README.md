@@ -1,6 +1,6 @@
 # HackTheBox Writeups
 
-I have been trying to give back to the community by drafting writeup reports for the machine I've completed on Hack the Box, which is a website for practising ethical hacking.
+I have been trying to give back to the community by drafting writeup reports for the machines I've completed on Hack the Box, a website for practising ethical hacking.
 
 ## Beginner-Friendly All The Way
 I pitch every report for a 'beginner', regardless of the difficulty of the machine. I've made this choice as I consider writeups to be a great learning resource for people trying to get started in the area. I am always available for for a chat when it comes to cyber, and especially ethical hacking for beginners. 
@@ -12,7 +12,7 @@ Retired machines are free to peruse in their own folder above, with no password.
 
 ## Active Machines
 Active machines are downloadable PDFs, locked with passwords. Click on the PDF you wamt and download it to your computer. 
-With each active box, I state the required password you will need to unlock it when prompted after you open it on your computer, so please keep an eye out for this. 
+With each active box, I state the required password (below) you will need to unlock it when prompted after you open it on your computer, so please keep an eye out for this. 
 
 ### Blunder
 Password is the root hash beginning with $6$ and ending with 18228
