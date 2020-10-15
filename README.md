@@ -11,7 +11,7 @@ If you're a beginner looking for tips on how to take effective notes, please see
 Retired machines are free to peruse in their own folder above, with no password. Download the PDF, as it renders slowly and weirdly on the Github viewer. 
 
 ## Active Machines
-Active machines are downloadable PDFs, locked with passwords. Click on the PDF you wamt and download it to your computer. 
+Active machines are downloadable PDFs, locked with passwords. Click on the PDF you want and download it to your computer. 
 With each active box, I state the required password (below) you will need to unlock it when prompted after you open it on your computer, so please keep an eye out for this. 
 
 ### Blunder
