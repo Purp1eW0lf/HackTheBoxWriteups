@@ -9,16 +9,16 @@ So I want this to hopefully be a bit more than the obligatory 'I passed the OSCP
 
 The topics we're going to go through:
 
-#### OSCP preparation (#Pre_OSCP_preparation)
-#### Purchasing the OSCP
-#### Coursework
-#### Buffer Overflows
-#### Lab Report
-#### Labs themselves
-#### Pre exam prep
-#### Exam itself
-#### Exam reporting
-#### [Post exam](#And after the OSCP Exam?)
+1. OSCP preparation
+2. Purchasing the OSCP
+3. Coursework
+4. Buffer Overflows
+5. Lab Report
+6.  Labs themselves
+7.  Pre exam prep
+8.  Exam itself
+9.  Exam reporting
+10. Post exam
 
 
 ## Pre OSCP preparation
