@@ -9,7 +9,7 @@ So I want this to hopefully be a bit more than the obligatory 'I passed the OSCP
 
 The topics we're going to go through:
 
-#### [OSCP preparation](#Pre -OSCP preparation)
+#### OSCP preparation (#Pre_OSCP_preparation)
 #### Purchasing the OSCP
 #### Coursework
 #### Buffer Overflows
@@ -21,7 +21,7 @@ The topics we're going to go through:
 #### [Post exam](#And after the OSCP Exam?)
 
 
-## Pre -OSCP preparation
+## Pre OSCP preparation
 
 Before you pay for the OSCP labs, I would recommend that you take up the following free (or cheap) resources:
 
