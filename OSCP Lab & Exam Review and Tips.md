@@ -9,7 +9,7 @@ So I want this to hopefully be a bit more than the obligatory 'I passed the OSCP
 
 The topics we're going to go through:
 
-#### OSCP preparation
+#### [OSCP preparation](#Pre -OSCP preparation)
 #### Purchasing the OSCP
 #### Coursework
 #### Buffer Overflows
@@ -18,7 +18,7 @@ The topics we're going to go through:
 #### Pre exam prep
 #### Exam itself
 #### Exam reporting
-#### Post exam
+#### [Post exam](#And after the OSCP Exam?)
 
 
 ## Pre -OSCP preparation
