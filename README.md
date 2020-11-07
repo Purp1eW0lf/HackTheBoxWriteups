@@ -21,6 +21,3 @@ With each active box, I state the required password (below) you will need to unl
 
 ### Buff
 Password is Admin Hash
-
-### Tabby
-Password is root's shadow hash, include the beginning $6$ and end with 0H/
