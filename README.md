@@ -5,8 +5,6 @@ I have been trying to give back to the community by drafting writeup reports for
 ## Beginner-Friendly All The Way
 I pitch every report for a 'beginner', regardless of the difficulty of the machine. I've made this choice as I consider writeups to be a great learning resource for people trying to get started in the area. I am always available for for a chat when it comes to cyber, and especially ethical hacking for beginners. 
 
-If you're a beginner looking for tips on how to take effective notes, please see my file on 'HTB Notetaking Tips'
-
 ## Preparing for the OSCP ?
 If you're using Hack the Box to prepare for your OSCP exam, you'll be pleased to know most of my writeups adhere to the rules of the OSCP exam (i.e no use of metasploit, sqlmap etc). 
 
