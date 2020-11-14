@@ -25,3 +25,6 @@ Password is root hash, starting with $6$r and ending with gjQn/
 
 ### Buff
 Password is Admin Hash
+
+### Worker
+Password is Admin Hash, beginning with c69 and ending with 84f
