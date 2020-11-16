@@ -29,5 +29,8 @@ Password is Admin Hash
 ### Feline
 Password is root hash, starting with $6$Xz and ending with /KvaU0
 
+### Passage
+Password is root hash, starting with $6$mjand ending with 8TW0
+
 ### Worker
 Password is Admin Hash, beginning with c69 and ending with 84f
