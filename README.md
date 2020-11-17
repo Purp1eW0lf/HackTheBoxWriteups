@@ -26,6 +26,9 @@ Password is root hash, starting with $6$r and ending with gjQn/
 ### Buff
 Password is Admin Hash
 
+### Doctor
+Password is root hash, starting with $6$384 and ending with wVbs5
+
 ### Feline
 Password is root hash, starting with $6$Xz and ending with /KvaU0
 
