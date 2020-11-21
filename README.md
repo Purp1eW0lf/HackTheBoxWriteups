@@ -23,9 +23,6 @@ Password is root hash, starting with $6$Ha and ending with BEKv./
 ### Bucket
 Password is root hash, starting with $6$r and ending with gjQn/
 
-### Buff
-Password is Admin Hash
-
 ### Doctor
 Password is root hash, starting with $6$384 and ending with wVbs5
 
