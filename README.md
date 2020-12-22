@@ -29,6 +29,9 @@ Password is root hash, starting with $6$384 and ending with wVbs5
 ### Feline
 Password is root hash, starting with $6$Xz and ending with /KvaU0
 
+### Laboratory
+Password is root hash, starting with $6$AMv and ending with Io4t1
+
 ### Passage
 Password is root hash, starting with $6$mjand ending with 8TW0
 
