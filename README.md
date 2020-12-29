@@ -8,7 +8,7 @@ I pitch every report for a 'beginner', regardless of the difficulty of the machi
 ## Preparing for the OSCP ?
 If you're using Hack the Box to prepare for your OSCP exam, you'll be pleased to know most of my writeups adhere to the rules of the OSCP exam (i.e no use of metasploit, sqlmap etc). 
 
-I'd also reccomend you read my 'OSCP Lab & Exam Review and Tips'. It was originally on Reddit, but I have created a copy you can find in this repo.
+I'd also recommend you read my 'OSCP Lab & Exam Review and Tips'. It was originally on Reddit, but I have created a copy you can find in this repo.
 
 ## Retired Machines
 Retired machines are free to peruse in their own folder above, with no password. Download the PDF, as it renders slowly and weirdly on the Github viewer. 
