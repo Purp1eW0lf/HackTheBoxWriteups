@@ -38,5 +38,8 @@ Password is root hash, starting with $6$mjand ending with 8TW0
 ### Reel2
 Password is jea test account's password, beginning with Ab ending with #1
 
+### Sharp
+Password is admin's password hash, beginning with 9e2e and ending with afb7
+
 ### Worker
 Password is Admin Hash, beginning with c69 and ending with 84f
