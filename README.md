@@ -23,6 +23,9 @@ Password is root hash, starting with $6$Ha and ending with BEKv./
 ### Bucket
 Password is root hash, starting with $6$r and ending with gjQn/
 
+### Delivery
+Passowrd is root hash, starting with $6$Zge and ending with rM2V0
+
 ### Doctor
 Password is root hash, starting with $6$384 and ending with wVbs5
 
