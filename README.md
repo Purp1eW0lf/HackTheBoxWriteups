@@ -26,9 +26,6 @@ Password is root hash, starting with $6$r and ending with gjQn/
 ### Delivery
 Passowrd is root hash, starting with $6$Zge and ending with rM2V0
 
-### Doctor
-Password is root hash, starting with $6$384 and ending with wVbs5
-
 ### Feline
 Password is root hash, starting with $6$Xz and ending with /KvaU0
 
