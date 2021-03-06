@@ -26,9 +26,6 @@ Passowrd is root hash, starting with $6$Zge and ending with rM2V0
 ### Laboratory
 Password is root hash, starting with $6$AMv and ending with Io4t1
 
-### Passage
-Password is root hash, starting with $6$mjand ending with 8TW0
-
 ### Reel2
 Password is jea test account's password, beginning with Ab ending with #1
 
