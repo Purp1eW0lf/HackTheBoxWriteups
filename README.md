@@ -29,5 +29,8 @@ Password is root hash, starting with $6$AMv and ending with Io4t1
 ### Reel2
 Password is jea test account's password, beginning with Ab ending with #1
 
+### ScriptKiddie
+Password is root hash, starting with $6$RO4wVQ and ending with /2gPJE77Bl
+
 ### Sharp
 Password is admin's password hash, beginning with 9e2e and ending with afb7
