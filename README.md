@@ -26,6 +26,9 @@ Passowrd is root hash, starting with $6$Zge and ending with rM2V0
 ### Laboratory
 Password is root hash, starting with $6$AMv and ending with Io4t1
 
+### Ready
+Password is root hash, starting with $6$6iCN and ending with O9K6
+
 ### ScriptKiddie
 Password is root hash, starting with $6$RO4wVQ and ending with /2gPJE77Bl
 
