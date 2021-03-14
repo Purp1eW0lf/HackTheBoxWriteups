@@ -26,9 +26,6 @@ Passowrd is root hash, starting with $6$Zge and ending with rM2V0
 ### Laboratory
 Password is root hash, starting with $6$AMv and ending with Io4t1
 
-### Reel2
-Password is jea test account's password, beginning with Ab ending with #1
-
 ### ScriptKiddie
 Password is root hash, starting with $6$RO4wVQ and ending with /2gPJE77Bl
 
