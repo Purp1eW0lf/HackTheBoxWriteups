@@ -108,6 +108,6 @@ OffSec state it may take thirty days to get results, but from what I've seen mos
 
 And that's it, that's everything I have for you. I hope that was informative. It was certainly cathartic to write, and I hope it can offer someone some guidance or reassurance. I'm always available for a chat, whether that's here in the comments, in a DM, or my [Twitter](https://twitter.com/Purp1eW0lf) .
 
-I'm hungry for more certifications, and I'm hoping OffSec update their OSWP course soon so I can sink my teeth into that. I've got eighteen months left to complete my InfoSec doctorate, and I'm also looking for Junior Pen Tester positions in London, as I want that guidance and mentorship in the professional world.
+I'm hungry for more certifications, and I'm hoping OffSec update their OSWP course soon so I can sink my teeth into that. I've got eighteen months left to complete my InfoSec doctorate, and I'm also looking for the next big challenge. Maybe a SANS!
 
 Take care of yourselves my friends.
