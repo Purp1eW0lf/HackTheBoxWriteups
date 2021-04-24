@@ -20,9 +20,6 @@ With each active box, I state the required password (below) you will need to unl
 ### Breadcrumbs
 Password is Admin's password, starting with p and ending with ./
 
-### Bucket
-Password is root hash, starting with $6$r and ending with gjQn/
-
 ### Delivery
 Passowrd is root hash, starting with $6$Zge and ending with rM2V0
 
