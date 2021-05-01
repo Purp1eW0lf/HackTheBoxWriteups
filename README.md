@@ -28,6 +28,3 @@ Password is root hash, starting with $6$6iCN and ending with O9K6
 
 ### ScriptKiddie
 Password is root hash, starting with $6$RO4wVQ and ending with /2gPJE77Bl
-
-### Sharp
-Password is admin's password hash, beginning with 9e2e and ending with afb7
