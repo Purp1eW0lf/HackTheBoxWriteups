@@ -26,8 +26,5 @@ Password is Admin's password, starting with p and ending with ./
 ### Delivery
 Passowrd is root hash, starting with $6$Zge and ending with rM2V0
 
-### Ready
-Password is root hash, starting with $6$6iCN and ending with O9K6
-
 ### ScriptKiddie
 Password is root hash, starting with $6$RO4wVQ and ending with /2gPJE77Bl
