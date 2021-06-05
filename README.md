@@ -23,5 +23,8 @@ Passowrd is root hash, starting with $6$O and ending with Ly9m5aU7/
 ### Breadcrumbs
 Password is Admin's password, starting with p and ending with ./
 
+### Love
+Password is Admin's hash, starting with aab4 and ending with cf1
+
 ### ScriptKiddie
 Password is root hash, starting with $6$RO4wVQ and ending with /2gPJE77Bl
