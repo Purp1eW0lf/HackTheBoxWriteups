@@ -23,8 +23,14 @@ Passowrd is root hash, starting with $6$O and ending with Ly9m5aU7/
 ### Breadcrumbs
 Password is Admin's password, starting with p and ending with ./
 
+### Cap
+Password is root hash, starting with $6$8vQ and ending with 8Mqdm0:18762
+
 ### Knife
 Password is Root hash, $6$LCK and ends with HA1:18754
 
 ### Love
 Password is Admin's hash, starting with aab4 and ending with cf1
+
+### Ophiuchi
+Password ir root hash, starting with $6$oP and ending with XC4LQo/
