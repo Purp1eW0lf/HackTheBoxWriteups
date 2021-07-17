@@ -20,9 +20,6 @@ With each active box, I state the required password (below) you will need to unl
 ### Armageddon
 Passowrd is root hash, starting with $6$O and ending with Ly9m5aU7/
 
-### Breadcrumbs
-Password is Admin's password, starting with p and ending with ./
-
 ### Cap
 Password is root hash, starting with $6$8vQ and ending with 8Mqdm0:18762
 
