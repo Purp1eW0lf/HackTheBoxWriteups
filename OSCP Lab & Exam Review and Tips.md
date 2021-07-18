@@ -9,16 +9,16 @@ So I want this to hopefully be a bit more than the obligatory 'I passed the OSCP
 
 The topics we're going to go through:
 
-1. OSCP preparation
-2. Purchasing the OSCP
-3. Coursework
-4. Buffer Overflows
-5. Lab Report
-6.  Labs themselves
-7.  Pre exam prep
-8.  Exam itself
-9.  Exam reporting
-10. Post exam
+1. [OSCP preparation](#Pre-OSCP-preparation)
+2. [Purchasing the OSCP](#Purchasing-the-OSCP)
+3. [Coursework](#OSCP-Coursework)
+4. [Buffer Overflows](#Buffer-Overflow)
+5. [Lab Report](#OSCP-Lab-report)
+6. [Labs themselves](#OSCP-Lab)
+7. [Pre exam prep](#pre-exam)
+8. [Exam itself](#exam)
+9. [Exam reporting](#post-exam)
+10.[Post exam](#And-after-the-OSCP-Exam)
 
 
 ## Pre OSCP preparation
@@ -34,7 +34,7 @@ Before you pay for the OSCP labs, I would recommend that you take up the followi
 * Vulnhub - just my subjective take on the matter, but I didn't find a single Vulnhub machine that I enjoyed. HTB or Try Hack Me are better choices for you to spend time on.
 * Note Taking - I used [Gitbook](https://www.gitbook.com/) for my note taking on Hack the Box and the OSCP labs. It's like google docs, in that it 'backs up' externally to your computer so you don't lose any notes if your VM crashes (which will happen plenty). Gitbook also has a good search functionality, so if you see port 1433 in the OSCP labs and think that you encountered that before it's as simple as searching for it amidst your notes. I did find that Gitbook wasn't that reliable for images (it seemed like some of mine would disappear after a few days) so maybe export the notes as PDFs if you're attached to keeping your images.
 
-## Purchasing OSCP
+## Purchasing the OSCP
 
 When you're ready to purchase your OSCP course, there are a number of options for what you can pay for. I'm not going to dwell on this for too long but what I will say is this: if you have children, intense work commitments, or an unforgiving significant other - choose the 90 day option. If you don't have children, if your workplace is understanding, and if your SO is forgiving - choose the 60 day option.
 
@@ -48,7 +48,7 @@ There may be some who say that completing the coursework is not worth the five p
 
 In essence, the coursework is dull and painful for 90%. But the 10% of interesting stuff, plus the five points, makes it undeniably worth it. Please do the coursework. I would recommend banging out the course report as soon and quick as you can. I spent eight days, giving fifteen hours a day just burning through the course so I could get it out of the way. I will assume you're more intelligent than I am and will get through the coursework much faster than I did.
 
-## OSCP Coursework: Buffer Overflow
+## Buffer Overflow
 
 The buffer overflow section in OffSec's course pdf is awful. It was my least favourite part of the whole course, and it kept coming up again and again throughout the 800 pages. They don't explain it well from the beginning and that confusion persists as you go through the BOF sections. It's the only part of the entire course that I was actually frustrated I had paid OffSec this much money.
 
@@ -74,7 +74,7 @@ Second criticism are to the people who say not to bother with the secret network
 
 I wanted to critique the Student Admins, who are on Helpdesk for any tech issues you're having as well as to give you pointers on machines. I only had two experiences with student admins, and whilst they were both nice people I think that English was not their first language and as a result their advice (and the conversation in general) was difficult. When someone is trying to give you a cryptic hint to a machine, and their command of English isn't that strong, it's not gonna go well for you. However I am reserving this as an actual thing OffSec should improve as I don't see how they could. They could hire student admins who have demonstrably high-level fluency in English, but maybe they do and I just got unlucky the two times I communicated with them? At any rate, I would gladly sign up to be a Student Admin as I would enjoy advising fellow students on hints and tips throughout their labs.
 
-## Pre-Exam
+## Pre Exam
 
 Book your exam date as early as you can, as the slots fill up quickly. I know it's difficult to know what life will be like two or three months time, but it's necessary I'm afraid. You don't want to leave a big gap between finishing the labs and doing your exam.
 
@@ -102,7 +102,7 @@ This is an area I am hugely critical of OffSec for. They don't need to fail a pe
 
 This is an area I would also like to OffSec improve on, as they have strict rules but do not explain it well. For example, does the coursework report and ten-machine-lab report get submitted in two separate reports, along with your exam report, or do you condense those two into one course/lab report and send that off with your exam report? I don't really know. I did the latter. It seemed to be okay for me as I passed, but greater clarity from OffSec would be even better.
 
-## And after the OSCP Exam?
+## And after the OSCP Exam
 
 OffSec state it may take thirty days to get results, but from what I've seen most people get their results within five days. I imagine a weekend submission may take a little bit longer. I did my exam early in the weekday and received my results midday two days later. The certificate does seem to arrive a little bit more erratically, due to COVID 19, as I haven't worked out a pattern of who receives theirs and when. I passed less than a week ago, so I won't see mine for maybe a little bit more.
 
