@@ -18,7 +18,7 @@ The topics we're going to go through:
 7. [Pre exam prep](#pre-exam)
 8. [Exam itself](#exam)
 9. [Exam reporting](#post-exam)
-10.[Post exam](#And-after-the-OSCP-Exam)
+10. [Post exam](#And-after-the-OSCP-Exam)
 
 
 ## Pre OSCP preparation
