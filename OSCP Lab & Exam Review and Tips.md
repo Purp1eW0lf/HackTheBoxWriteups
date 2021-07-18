@@ -14,7 +14,7 @@ The topics we're going to go through:
 3. [Coursework](#OSCP-Coursework)
 4. [Buffer Overflows](#Buffer-Overflow)
 5. [Lab Report](#OSCP-Lab-report)
-6. [Labs themselves](#OSCP-Lab)
+6. [Labs themselves](#OSCP-Labs)
 7. [Pre exam prep](#pre-exam)
 8. [Exam itself](#exam)
 9. [Exam reporting](#post-exam)
