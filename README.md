@@ -25,3 +25,6 @@ Password is Kristi's password, beginning with K and ending with !
 
 ### [Knife](https://github.com/Purp1eW0lf/HackTheBoxWriteups/blob/master/Active%20Machines/Knife.pdf)
 Password is Root hash, $6$LCK and ends with HA1:18754
+
+### [Previse](https://github.com/Purp1eW0lf/HackTheBoxWriteups/blob/master/Active%20Machines/Previse.pdf)
+Password is root hash, starting with $6$QJg and ending with /YC0Mk1
