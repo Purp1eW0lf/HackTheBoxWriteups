@@ -17,9 +17,6 @@ Retired machines are free to peruse in their own folder above, with no password.
 Active machines are downloadable PDFs, locked with passwords. Click on the PDF you want and download it to your computer. 
 With each active box, I state the required password (below) you will need to unlock it when prompted after you open it on your computer, so please keep an eye out for this. 
 
-### [Cap](https://github.com/Purp1eW0lf/HackTheBoxWriteups/blob/master/Active%20Machines/Cap.pdf)
-Password is root hash, starting with $6$8vQ and ending with 8Mqdm0:18762
-
 ### [Explore](https://github.com/Purp1eW0lf/HackTheBoxWriteups/blob/master/Active%20Machines/Explore.pdf)
 Password is Kristi's password, beginning with K and ending with !
 
