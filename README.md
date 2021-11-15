@@ -17,7 +17,7 @@ Retired machines are free to peruse in their own folder above, with no password.
 Active machines are downloadable PDFs, locked with passwords. Click on the PDF you want and download it to your computer. 
 With each active box, I state the required password (below) you will need to unlock it when prompted after you open it on your computer, so please keep an eye out for this. 
 
-### [Horizontall]
+### [Horizontall](https://github.com/Purp1eW0lf/HackTheBoxWriteups/blob/master/Active%20Machines/Horizontall.pdf)
 Password is root hash, starting with $6$r and ending with 99999:7
 
 ### [Intelligence](https://github.com/Purp1eW0lf/HackTheBoxWriteups/blob/master/Active%20Machines/Intelligence.pdf)
