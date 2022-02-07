@@ -19,6 +19,3 @@ With each active box, I state the required password (below) you will need to unl
 
 ### [Driver](https://github.com/Purp1eW0lf/HackTheBoxWriteups/blob/master/Active%20Machines/Driver.pdf)
 Password is Tony's NTLM hash, starting with df and ending with 085
-
-### [Horizontall](https://github.com/Purp1eW0lf/HackTheBoxWriteups/blob/master/Active%20Machines/Horizontall.pdf)
-Password is root hash, starting with $6$r and ending with 99999:7
