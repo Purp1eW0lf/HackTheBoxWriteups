@@ -16,6 +16,3 @@ Retired machines are free to peruse in their own folder above, with no password.
 ## Active Machines
 Active machines are downloadable PDFs, locked with passwords. Click on the PDF you want and download it to your computer. 
 With each active box, I state the required password (below) you will need to unlock it when prompted after you open it on your computer, so please keep an eye out for this. 
-
-### [Driver](https://github.com/Purp1eW0lf/HackTheBoxWriteups/blob/master/Active%20Machines/Driver.pdf)
-Password is Tony's NTLM hash, starting with df and ending with 085
